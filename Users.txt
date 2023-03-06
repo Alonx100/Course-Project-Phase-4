@@ -1,0 +1,4 @@
+Bob|Bob123|Admin
+Sveta|Sveta1234|User
+Evan|Evan1234|Admin
+CoolP|WOW|User
